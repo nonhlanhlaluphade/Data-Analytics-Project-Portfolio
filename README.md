@@ -4,6 +4,7 @@ Hi there! This documentation is like a quick snapshot of my project in the data 
 ## Portfolio Contents
 1. [Computer Vision](#computer-vision)
 2. [Database Management](#database)
+3. [SQL](#sql).
 
 
 **Projects with :star: are my personal favourites, so do check them out!**
@@ -19,39 +20,11 @@ ___
 | Title | Article | Repo |
 | --- | --- | --- |  
 
-### 📂 Data Engineering
-
-Project Link | Associated | Tools | Project Description
----|---|---|---
-
-<br>
-<br>
+___
+<a name="sql"></a>
+## SQL :   
+| Title | Article | Repo |
+| --- | --- | --- |  
 
 
-### 📂 Python: Data Analysis and Machine Learning
 
-Project Link | Associated | Area | Library | Project Description 
----|---|---|---|---
-
-
-<br>
-<br>
-
-### 📂 SQL
-
-Project Link | Associated | Area | Tools | Project Description
----|---|---|---|---
-
-<br>
-<br>
-
-### 📂 Dashboard
-Project Link | Associated | Tools | Project Description
----|---|---|---
-
-<br>
-<br>
-
-### 📂 Complated Course and Certification
-
-- 
