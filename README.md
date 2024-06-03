@@ -4,7 +4,7 @@ Hi there! This documentation is like a quick snapshot of my project in the data 
 ## Portfolio Contents
 1. [Computer Vision](#computer-vision)
 2. [Database Management](#database)
-3. [SQL](#sql).
+3. [SQL](#sql)
 
 
 **Projects with :star: are my personal favourites, so do check them out!**
@@ -22,7 +22,7 @@ ___
 
 ___
 <a name="sql"></a>
-## SQL :   
+## SQL    
 | Title | Article | Repo |
 | --- | --- | --- |  
 
